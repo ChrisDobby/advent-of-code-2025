@@ -1,0 +1,9 @@
+[package]
+name = "invalid_id_finder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+proptest = "1.4"
